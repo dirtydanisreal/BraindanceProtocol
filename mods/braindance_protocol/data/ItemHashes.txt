@@ -966,6 +966,7 @@ Items.Preset_Baton_Alpha
 Items.Preset_Baton_Gamma
 Items.Preset_Baton_Tinker_Bell
 Items.sq021_peter_pan_baton
+Items.PlayerSilverhandArm
 Items.Preset_Crowbar_Default
 Items.Preset_Iron_Pipe_Default
 Items.Preset_Tire_Iron_Default
